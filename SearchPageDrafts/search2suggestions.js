@@ -1,0 +1,4 @@
+let suggestions = [
+    "aaaaaa",
+    "bbbbbbbbbb",
+];
